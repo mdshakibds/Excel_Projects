@@ -6,7 +6,9 @@ An interactive **Sales Analytics Dashboard** built in Microsoft Excel to analyze
 
 ## 🖼️ Dashboard Preview
 
-![Sales Analytics Dashboard](assets/dashboard_image.png)
+![Sales Analytics Dashboard](./dashboard_image.png)
+
+
 
 ---
 
