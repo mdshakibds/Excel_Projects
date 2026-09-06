@@ -85,9 +85,9 @@ This project simulates a real-world MIS reporting workflow — taking raw sales 
 
 ## 👤 Author
 
-**MD Atif Kalim**
-📧 mdatifkalim.ds@gmail.com
-🔗 [GitHub](https://github.com/mdatifkalim) | [Portfolio](#)
+**MD SHAKIB**
+📧 mdshakib.ds01@gmail.com
+🔗 [GitHub](https://github.com/mdshakib.ds01) | [Portfolio](#)
 
 ---
 
